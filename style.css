@@ -377,6 +377,18 @@ button {
     }
 }
 
+@media only screen and (max-width: 1920px) {
+    .promos {
+        margin-left: 2em;
+    }
+    #bottom-title {
+        margin-left: 16em;
+    }
+    #footer-firstChild {
+        margin-left: 20em;
+    }
+}
+
 @media only screen and (max-width: 1440px) {
     iframe {
         margin-top: 8em;
